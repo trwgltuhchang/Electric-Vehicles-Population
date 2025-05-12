@@ -2,6 +2,7 @@
 ## ⚡ Market Analysis of 100K+ Electric Vehicle Records
 
 Performed large-scale analysis of EV adoption patterns across regions, manufacturers, and fuel types to generate business insights and growth projections.
+* Data Source: [Market Size of EVs: Case Study](https://statso.io/market-size-of-evs-case-study/)
 
 ## 📌 Highlights
 - Conducted exploratory data analysis on **100,000+** EV registration records to identify adoption trends and infrastructure needs.
